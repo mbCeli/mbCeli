@@ -42,7 +42,7 @@ Changing career to become a Full-Stack Developer because I always found coding v
 </div>
 
 ## Let's connect and chat
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/celina-mun-bapori" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
