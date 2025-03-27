@@ -41,21 +41,22 @@ Changing career to become a Full-Stack Developer because I always found coding v
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbCeli&theme=radical" alt="GitHub Streak" />
 </div>
 
-## Lets connect and chat
+## Let's Connect and Chat
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/celina-mun-bapori" target="_blank">
-    <img src="https://github.com/user-attachments/assets/889bf122-8f92-4e1e-a780-4a712f1798d0" width="40" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/celina-mun-bapori">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:munbaporicelina@outlook.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/fd7f86e4-1e43-4ceb-abaf-c480daa1f824" width="40" height="40" alt="Email"/>
+  <a href="mailto:munbaporicelina@outlook.com">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" width="40" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mbCeli?tab=stars" target="_blank">
-    <img src="https://github.com/user-attachments/assets/74133e29-8373-4524-adb6-7a24cc5f7aa4" width="40" height="40" alt="Portfolio"/>
+  <a href="https://github.com/mbCeli?tab=stars">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="40" height="40" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b0e5b012-2945-429b-8c73-4b547c0bc7c8" width="40" height="40" alt="Instagram"/>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="40" height="40" alt="Instagram"/>
   </a>
 </div>
