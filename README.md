@@ -45,9 +45,9 @@ Changing career to become a Full-Stack Developer because I always found coding v
 <a href="https://www.linkedin.com/in/celina-mun-bapori">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="30" height="30" alt="LinkedIn"/>
 </a>
-<!--
--->&nbsp;&nbsp;<!--
--->
+<!----> 
+&nbsp;&nbsp; 
+<!---->
 <a href="mailto:munbaporicelina@outlook.com">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" width="30" height="30" alt="Email"/>
 </a>
