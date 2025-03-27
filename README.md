@@ -46,11 +46,13 @@ Changing career to become a Full-Stack Developer because I always found coding v
   <a href="https://www.linkedin.com/in/celina-mun-bapori" target="_blank">
     <img src="https://github.com/user-attachments/assets/889bf122-8f92-4e1e-a780-4a712f1798d0" width="40" height="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:munbaporicelina@outlook.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/720e0c9e-ce78-4d34-a9cc-fd5a4f611117" width="40" height="40" alt="Email"/>
+    <img src="https://github.com/user-attachments/assets/fd7f86e4-1e43-4ceb-abaf-c480daa1f824" width="40" height="40" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mbCeli?tab=stars" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d7dfb006-0dcc-4783-bff8-9b632f64e1b3" width="40" height="40" alt="Portfolio"/>
+    <img src="https://github.com/user-attachments/assets/74133e29-8373-4524-adb6-7a24cc5f7aa4" width="40" height="40" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
