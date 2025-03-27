@@ -55,7 +55,7 @@ Changing career to become a Full-Stack Developer because I always found coding v
     <img src="https://github.com/user-attachments/assets/74133e29-8373-4524-adb6-7a24cc5f7aa4" width="40" height="40" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://instagram.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/b0e5b012-2945-429b-8c73-4b547c0bc7c8" width="40" height="40" alt="Instagram"/>
   </a>
 </div>
