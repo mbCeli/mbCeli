@@ -41,18 +41,11 @@ Changing career to become a Full-Stack Developer because I always found coding v
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbCeli&theme=radical" alt="GitHub Streak" />
 </div>
 
+
 ## Let's Connect and Chat
-<div align="center">
-  <a href="https://www.linkedin.com/in/celina-mun-bapori">
-    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
-  </a>
-  <a href="mailto:munbaporicelina@outlook.com">
-    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
-  </a>
-  <a href="https://github.com/mbCeli?tab=stars">
-    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/celina-mun-bapori"><img src="https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=0A66C2&color=black" alt="LinkedIn" /></a>
+  <a href="mailto:munbaporicelina@outlook.com"><img src="https://img.shields.io/badge/-Email-white?style=flat-square&logo=Microsoft-Outlook&logoColor=0078D4&color=black" alt="Email" /></a>
+  <a href="https://github.com/mbCeli?tab=stars"><img src="https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Github&logoColor=white&color=black" alt="Portfolio" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=E4405F&color=black" alt="Instagram" /></a>
+</p>
