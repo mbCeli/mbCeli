@@ -42,6 +42,23 @@ Changing career to become a Full-Stack Developer because I always found coding v
 </div>
 
 
-## Feel free to contact me!
+## Let's connect and chat
 
-<a href="https://www.linkedin.com/in/celina-mun-bapori"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="30" height="30" alt="LinkedIn"/></a><!-- --><a href="mailto:munbaporicelina@outlook.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" width="30" height="30" alt="Email"/></a><!-- --><a href="https://github.com/mbCeli?tab=stars"><img src="https://img.icons8.com/ios-filled/50/ffffff/portfolio.png" width="30" height="30" alt="Portfolio"/></a><!-- --><a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="30" height="30" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/celina-mun-bapori">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+</a>
+<!-- -->
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:munbaporicelina@outlook.com">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" width="40" height="40" alt="Email"/>
+</a>
+<!-- -->
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mbCeli?tab=stars">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/portfolio.png" width="40" height="40" alt="Portfolio"/>
+</a>
+<!-- -->
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="40" height="40" alt="Instagram"/>
+</a>
