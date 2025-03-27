@@ -44,19 +44,19 @@ Changing career to become a Full-Stack Developer because I always found coding v
 ## Let's connect and chat
 <div>
   <a href="https://www.linkedin.com/in/celina-mun-bapori" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="30" height="30" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:munbaporicelina@outlook.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" width="30" height="30" alt="Email"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" width="40" height="40" alt="Email"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mbCeli?tab=stars" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/portfolio.png" width="30" height="30" alt="Portfolio"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/portfolio.png" width="40" height="40" alt="Portfolio"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="30" height="30" alt="Instagram"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
 </div>
 
