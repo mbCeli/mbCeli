@@ -14,8 +14,8 @@ Changing career to become a Full-Stack Developer because I always found coding v
 - 😂 Fun fact: 
 
 ## Currently Working On
-- **Play with FULP-Ironhack Las Palmas 2025**: https://playwith-fulp-ironhack-2025.netlify.app/
-- **Web app to play all the games done by my classmates and me as the first project of the Full-Stack Web Development bootcamp with Ironhack through the Fundación Universitaria de Las Palmas (FULP)**
+- **Play with FULP-Ironhack Las Palmas 2025**: playwith-fulp-ironhack-2025.netlify.app
+- Web app to play all the games done by my classmates and me as the first project of the Full-Stack Web Development bootcamp with Ironhack through the Fundación Universitaria de Las Palmas (FULP)
 - **Tech Stack**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer-motion" width="20" height="20"/>
 - **Learning**: Deepening my understanding of state management in React, building RESTful APIs correctly and optimizing folder structure.
 
@@ -36,13 +36,24 @@ Changing career to become a Full-Stack Developer because I always found coding v
 </div>
 
 ## GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mbCeli&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbCeli&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## Lets connect and chat
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celina-mun-bapori) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:munbaporicelina@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://github.com/mbCeli?tab=stars) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com)
-
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/celina-mun-bapori" target="_blank">
+    <img src="https://github.com/user-attachments/assets/889bf122-8f92-4e1e-a780-4a712f1798d0" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:munbaporicelina@outlook.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/720e0c9e-ce78-4d34-a9cc-fd5a4f611117" width="40" height="40" alt="Email"/>
+  </a>
+  <a href="https://github.com/mbCeli?tab=stars" target="_blank">
+    <img src="https://github.com/user-attachments/assets/d7dfb006-0dcc-4783-bff8-9b632f64e1b3" width="40" height="40" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b0e5b012-2945-429b-8c73-4b547c0bc7c8" width="40" height="40" alt="Instagram"/>
+  </a>
+</div>
