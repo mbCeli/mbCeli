@@ -1,49 +1,30 @@
 # Hi there! 👋 I'm Celina, a Full Stack Developer in the making
 
-
-
-
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHcyNTlkY215bXYwYjNtczd1eHgxenp1NjBjeWl4eXR0bmN6NHNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" align="center" height="" width="200" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHcyNTlkY215bXYwYjNtczd1eHgxenp1NjBjeWl4eXR0bmN6NHNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" align="center" height="" width="300" />
 </div>  
   
-
 ### <div align="center">Becoming a Full-Stack Developer because I always found coding very interesting. I love the possibility of creating digital solutions by blending creativity and logic, and I'm excited by the continuous learning opportunities in development.</div>  
+
+<br/> 
   
-
-
-
 ### About Me  
 - 🎓 Learning path: Full-Stack Web Development Bootcamp with Reboot Academy → Full-Stack Web Development Bootcamp with Ironhack.  
-  
-
 - 🎯 Looking for: Continuously enhancing my skills through application projects, internships, and developer collaborations to secure job opportunities where I can grow professionally as a developer.  
-  
-
 - 💬 I speak: Spanish - Native   |   English - Bilingual   |   Dutch - Elementary.  
-  
-
 - 😆 Fun fact: My greatest 2024 question was "... everyone keeps talking about ChatGPT, what the heck is that?"  
   
-
-
-
 ### Currently Working On  
 [Play with FULP-Ironhack Las Palmas 2025](http://playwith-fulp-ironhack-2025.netlify.app)  
   
-
 Web app to play all the games done by my classmates and me as the first project of the Full-Stack Web Development bootcamp with Ironhack through the Fundación Universitaria de Las Palmas (FULP)  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
-
-
-### Frontend  
+### Languages and Tools 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
