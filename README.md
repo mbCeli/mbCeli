@@ -64,12 +64,14 @@ Web app to play all the games done by my classmates and me as the first project 
   <img src="https://github-readme-stats.vercel.app/api?username=mbCeli&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide=contribs" height="160px" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbCeli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160px" />
-
+  <br />
   <img src="https://komarev.com/ghpvc/?username=mbCeli&label=Profile%20Views&color=F85D7F&style=flat" height="28px" style="margin-top: 66px;" />
 </div>
 
 <br />
 
 ----
-<div align="center">Thank you for stopping by</div> 
+<div align="center">
+  <h3>Thanks for stopping by! ✨</h3>
+</div> 
 
