@@ -60,13 +60,19 @@ Web app to play all the games done by my classmates and me as the first project 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mbCeli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbCeli&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide=contribs" align="center" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbCeli&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" align="center" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbCeli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" align="center" />
+</div>
 
-<br/>  
+<br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+  <img src="https://komarev.com/ghpvc/?username=mbCeli&label=Profile%20Views&color=F85D7F&style=flat" align="center" />
+</div>
 
 <br />
 
