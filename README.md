@@ -22,7 +22,7 @@ Web app to play all the games done by my classmates and me as the first project 
 
 ### Let's connect and chat
 <div>
-<a href="https://github.com/mbCeli" target="_blank">
+<a href="https://github.com/mbCeli?tab=stars" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
