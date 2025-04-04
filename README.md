@@ -20,16 +20,18 @@
 Web app to play all the games done by my classmates and me as the first project of the Full-Stack Web Development bootcamp with Ironhack through the Fundación Universitaria de Las Palmas (FULP)
 
 ### Connect with me
-<div align="center">
+<div>
 <a href="https://github.com/mbCeli" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </a>
-<a href="https://instagram.com/mbceli" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/celina-mun-bapori" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:your.email@example.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Email" />
+</a>
 </div>  
   
 <br/>  
