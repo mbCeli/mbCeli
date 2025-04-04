@@ -17,7 +17,7 @@
 ### Currently Working On  
 [Play with FULP-Ironhack Las Palmas 2025](http://playwith-fulp-ironhack-2025.netlify.app)  
   
-Web app to play all the games done by my classmates and me as the first project of the Full-Stack Web Development bootcamp with Ironhack through the Fundación Universitaria de Las Palmas (FULP)
+Web app to play all the games done by my classmates and me as the first project of the Full-Stack Web Development bootcamp with Ironhack through the Fundación Universitaria de Las Palmas (FULP).
 [See repository](https://github.com/mbCeli/Project3-ReactSPA-Frontend)
 
 ### Let's connect and chat
@@ -47,7 +47,7 @@ Web app to play all the games done by my classmates and me as the first project 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="30" height="30" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" style="margin: 0 10px;" />
