@@ -60,22 +60,16 @@ Web app to play all the games done by my classmates and me as the first project 
 
 
 ## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbCeli&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide=contribs" align="center" />
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; flex-wrap: nowrap; overflow-x: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbCeli&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide=contribs" height="160px" />
   
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbCeli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" align="center" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbCeli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160px" />
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mbCeli&label=Profile%20Views&color=F85D7F&style=flat" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=mbCeli&label=Profile%20Views&color=F85D7F&style=flat" height="28px" style="margin-top: 66px;" />
 </div>
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Thank you for stopping by</div> 
 
