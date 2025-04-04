@@ -8,7 +8,7 @@
 
 <br/> 
   
-### About Me  
+## About Me  
 - 🎓 Learning path: Full-Stack Web Development Bootcamp with Reboot Academy → Full-Stack Web Development Bootcamp with Ironhack.  
 - 🎯 Looking for: Continuously enhancing my skills through application projects, internships, and developer collaborations to secure job opportunities where I can grow professionally as a developer.  
 - 💬 I speak: Spanish - Native   |   English - Bilingual   |   Dutch - Elementary.  
@@ -18,6 +18,7 @@
 [Play with FULP-Ironhack Las Palmas 2025](http://playwith-fulp-ironhack-2025.netlify.app)  
   
 Web app to play all the games done by my classmates and me as the first project of the Full-Stack Web Development bootcamp with Ironhack through the Fundación Universitaria de Las Palmas (FULP)
+[See repository](https://github.com/mbCeli/Project3-ReactSPA-Frontend)
 
 ### Let's connect and chat
 <div>
